@@ -1,0 +1,16 @@
+body { background-color:plum;}
+
+#areaCartas { 
+	margin-top: 50px;
+	text-align:center;
+	
+}
+
+.cartas{
+	width:105px;
+	position: relative;
+	top: 0 px;
+	left: 0px;
+}
+
+#resultado{text-align:center;}
